@@ -3,7 +3,7 @@ isup
 
 Verify the status of a website from hosts around the world!
 
-Test your website at estanoar.vescnet.com.br.
+Test your website [here.](http://estanoar.vescnet.com.br/)
 
 Using:
 
