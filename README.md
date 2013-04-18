@@ -1,7 +1,7 @@
 isup
 ====
 
-Verify the status of a website from hosts around the world!
+Verify the status of your website from hosts around the world!
 
 Test your website [here.](http://estanoar.vescnet.com.br/)
 
